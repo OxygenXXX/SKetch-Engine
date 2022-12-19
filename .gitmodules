@@ -2,3 +2,7 @@
 	path = libraries/glfw
 	url = https://github.com/glfw/glfw
 	branch = master
+[submodule "libraries/glad"]
+	path = libraries/glad
+	url = https://github.com/Dav1dde/glad
+	branch = master
